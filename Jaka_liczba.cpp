@@ -1,7 +1,7 @@
 #include <iostream>
 #include <conio.h>
 using namespace std;
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+
 int Suma(int nLiczba){
 	int nSuma=0;
 	for (int i=1; i<=nLiczba; i++){
